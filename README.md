@@ -14,6 +14,8 @@ The following components are essential elements of the chaos application:
 1. Finalization
 1. CPU-bound workloads
 1. IO-bound workloads
+1. FFI
+1. C-API
 
 Chaos is presently written in Ruby, but no guarantees are made that it will continue to be written in Ruby.
 
